@@ -2,7 +2,7 @@
 
 # Seja bem vindo!🤘
 
-Iniciante no mundo da programação, e entusiasta do mundo de tecnologia! 
+Estudante de programação, e entusiasta do mundo de tecnologia! 
 
 - 🤓Estudante de webdesign
 - 💻Fã de tecnologia
