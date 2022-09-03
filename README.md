@@ -1,12 +1,17 @@
 <img src="banner.gif" width="325px" align = "right"/>
 
-# Seja bem vindo!🤘
+# Welcome!🤘
 
-Estudante de programação, e entusiasta do mundo de tecnologia! 
+Programming student and technology enthusiast! 
 
-- 🤓Estudante de webdesign
-- 💻Fã de tecnologia
-- 🎮Fã de games
+- 🤓Webdesign student
+- 💻Tech fan
+- 🎮game fan
+- 🎸Love good music
+
+---
+
+Main technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40px" height="40px"/>
@@ -17,6 +22,8 @@ Estudante de programação, e entusiasta do mundo de tecnologia!
 </div>
 
 ---
+
+Find me in:
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-teixeira-448ab843/">
