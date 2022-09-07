@@ -1,6 +1,6 @@
 <img src="banner.gif" width="325px" align = "right"/>
 
-# Welcome!🤘
+# Welcome!🤘I'm Guilherme
 
 Programming student and technology enthusiast! 
 
